@@ -1,8 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 import pynput, time, random
 from pynput.keyboard import Key, Controller as KeyboardController, Listener
 from pynput.mouse import Button, Controller as MouseController
