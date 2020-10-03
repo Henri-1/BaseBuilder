@@ -36,3 +36,4 @@ press_key('w', 1)
 
 mouse_click_left()
 press_key('w', 1)
+# wip
